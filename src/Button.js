@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 
 
 const ButtonStyled = styled.button`
-    padding: 20px 10px;
+    padding: 100px 300px;
     background-color: ${(props) => props.color ?? 'blue'};
 `
 
